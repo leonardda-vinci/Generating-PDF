@@ -1,0 +1,17 @@
+{
+  "name": "html-to-pdf",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4",
+    "puppeteer": "^22.13.0"
+  }
+}
